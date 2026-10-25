@@ -1,2 +1,0 @@
-# nfl-ppr
-nfl-ppr
